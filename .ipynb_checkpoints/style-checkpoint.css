@@ -1,0 +1,17 @@
+.train-model-button {
+    background-color: Azure;
+    color: black;
+    margin-left: 25px;
+    border-style: solid;
+    border-radius: 8px;
+    cursor: pointer;
+    height: 36px;
+    width: 140px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+    transition: box-shadow 0.35s, background-color 0.3s;
+}
+
+.train-model-button:hover {
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.6);
+    background-color: #e0ffff; 
+}

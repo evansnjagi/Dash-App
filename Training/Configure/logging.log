@@ -1,0 +1,1701 @@
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Creting image path
+INFO:root:Creting image path
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Creting image path
+INFO:root:Saving the plot as top10_missing_values.png
+INFO:root:Sucess! Saved the plot as top10_missing_values.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as top10_missing_values_pct.png
+INFO:root:Sucess! Saved the plot as top10_missing_values_pct.png
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Creting image path
+INFO:root:Saving the plot as mulitcollinearity.png
+INFO:root:Sucess! Saved the plot as mulitcollinearity.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_LotArea.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_LotArea.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_LowQualFinSF.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_LowQualFinSF.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_MiscVal.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_MiscVal.png
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Inintialized our class instances!
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Inintialized our class instances!
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Inintialized our class instances!
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Creting image path
+INFO:root:Saving the plot as top10_missing_values.png
+INFO:root:Sucess! Saved the plot as top10_missing_values.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as top10_missing_values_pct.png
+INFO:root:Sucess! Saved the plot as top10_missing_values_pct.png
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Creting image path
+INFO:root:Saving the plot as mulitcollinearity.png
+INFO:root:Sucess! Saved the plot as mulitcollinearity.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_LotArea.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_LotArea.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_LowQualFinSF.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_LowQualFinSF.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_MiscVal.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_MiscVal.png
+INFO:root:Inintialized our class instances!
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Creting image path
+INFO:root:Saving the plot as top10_missing_values.png
+INFO:root:Sucess! Saved the plot as top10_missing_values.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as top10_missing_values_pct.png
+INFO:root:Sucess! Saved the plot as top10_missing_values_pct.png
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Creting image path
+INFO:root:Saving the plot as mulitcollinearity.png
+INFO:root:Sucess! Saved the plot as mulitcollinearity.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_LotArea.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_LotArea.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_LowQualFinSF.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_LowQualFinSF.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_MiscVal.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_MiscVal.png
+INFO:root:Inintialized our class instances!
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Creting image path
+INFO:root:Saving the plot as BaselineModelScatter.png
+INFO:root:Sucess! Saved the plot as BaselineModelScatter.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as learningCurve.png
+INFO:root:Sucess! Saved the plot as learningCurve.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as LinerModelScatter.png
+INFO:root:Sucess! Saved the plot as LinerModelScatter.png
+INFO:root:Creating Model path
+INFO:root:Saving the model as LinearRegressionModel.pkl
+INFO:root:Creating Model path
+INFO:root:Saving the model as LinearRegressionModel.pkl
+INFO:root:Sucess! Saved the model as LinearRegressionModel.pkl
+INFO:root:Inintialized our class instances!
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['FireplaceQu', 'MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['FireplaceQu', 'MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Inintialized our class instances!
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Inintialized our class instances!
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['FireplaceQu', 'MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['FireplaceQu', 'MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['FireplaceQu', 'MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Inintialized our class instances!
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Inintialized our class instances!
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['FireplaceQu', 'MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['FireplaceQu', 'MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['FireplaceQu', 'MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['FireplaceQu', 'MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Inintialized our class instances!
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Inintialized our class instances!
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['FireplaceQu', 'MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['FireplaceQu', 'MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Creting image path
+INFO:root:Saving the plot as top10_missing_values.png
+INFO:root:Sucess! Saved the plot as top10_missing_values.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as top10_missing_values_pct.png
+INFO:root:Sucess! Saved the plot as top10_missing_values_pct.png
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Creting image path
+INFO:root:Saving the plot as mulitcollinearity.png
+INFO:root:Sucess! Saved the plot as mulitcollinearity.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_LotArea.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_LotArea.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_LowQualFinSF.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_LowQualFinSF.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_MiscVal.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_MiscVal.png
+INFO:root:Inintialized our class instances!
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Inintialized our class instances!
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Computing low variance feature selection
+INFO:root:Creting image path
+INFO:root:Saving the plot as BaselineModelScatter.png
+INFO:root:Sucess! Saved the plot as BaselineModelScatter.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as DecomposedScatter.png
+INFO:root:Sucess! Saved the plot as DecomposedScatter.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as BaselineModelScatter.png
+INFO:root:Sucess! Saved the plot as BaselineModelScatter.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as learningCurve.png
+INFO:root:Sucess! Saved the plot as learningCurve.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as LinerModelScatter.png
+INFO:root:Sucess! Saved the plot as LinerModelScatter.png
+INFO:root:Creating Model path
+INFO:root:Saving the model as LinearRegressionModel.pkl
+INFO:root:Sucess! Saved the model as LinearRegressionModel.pkl
+INFO:root:Inintialized our class instances!
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Inintialized our class instances!
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Inintialized our class instances!
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Creting image path
+INFO:root:Saving the plot as DecomposedScatter.png
+INFO:root:Sucess! Saved the plot as DecomposedScatter.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as BaselineModelScatter.png
+INFO:root:Sucess! Saved the plot as BaselineModelScatter.png
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Creting image path
+INFO:root:Saving the plot as top10_missing_values.png
+INFO:root:Sucess! Saved the plot as top10_missing_values.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as top10_missing_values_pct.png
+INFO:root:Sucess! Saved the plot as top10_missing_values_pct.png
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Creting image path
+INFO:root:Saving the plot as mulitcollinearity.png
+INFO:root:Sucess! Saved the plot as mulitcollinearity.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_LotArea.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_LotArea.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_LowQualFinSF.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_LowQualFinSF.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_MiscVal.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_MiscVal.png
+INFO:root:Inintialized our class instances!
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Creting image path
+INFO:root:Saving the plot as DecomposedScatter.png
+INFO:root:Sucess! Saved the plot as DecomposedScatter.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as BaselineModelScatter.png
+INFO:root:Sucess! Saved the plot as BaselineModelScatter.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as learningCurve.png
+INFO:root:Sucess! Saved the plot as learningCurve.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as LinerModelScatter.png
+INFO:root:Sucess! Saved the plot as LinerModelScatter.png
+INFO:root:Creating Model path
+INFO:root:Saving the model as LinearRegressionModel.pkl
+INFO:root:Sucess! Saved the model as LinearRegressionModel.pkl
+INFO:root:Inintialized our class instances!
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['FireplaceQu', 'MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['FireplaceQu', 'MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Creting image path
+INFO:root:Saving the plot as top10_missing_values.png
+INFO:root:Sucess! Saved the plot as top10_missing_values.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as top10_missing_values_pct.png
+INFO:root:Sucess! Saved the plot as top10_missing_values_pct.png
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Creting image path
+INFO:root:Saving the plot as mulitcollinearity.png
+INFO:root:Sucess! Saved the plot as mulitcollinearity.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_LotArea.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_LotArea.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_LowQualFinSF.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_LowQualFinSF.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_MiscVal.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_MiscVal.png
+INFO:root:Inintialized our class instances!
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Computing low variance feature selection
+INFO:root:Creting image path
+INFO:root:Saving the plot as DecomposedScatter.png
+INFO:root:Sucess! Saved the plot as DecomposedScatter.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as BaselineModelScatter.png
+INFO:root:Sucess! Saved the plot as BaselineModelScatter.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as learningCurve.png
+INFO:root:Sucess! Saved the plot as learningCurve.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as LinerModelScatter.png
+INFO:root:Sucess! Saved the plot as LinerModelScatter.png
+INFO:root:Creating Model path
+INFO:root:Saving the model as LinearRegressionModel.pkl
+INFO:root:Sucess! Saved the model as LinearRegressionModel.pkl
+INFO:root:Inintialized our class instances!
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Computing low variance feature selection
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Creting image path
+INFO:root:Saving the plot as top10_missing_values.png
+INFO:root:Sucess! Saved the plot as top10_missing_values.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as top10_missing_values_pct.png
+INFO:root:Sucess! Saved the plot as top10_missing_values_pct.png
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Creting image path
+INFO:root:Saving the plot as mulitcollinearity.png
+INFO:root:Sucess! Saved the plot as mulitcollinearity.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_LotArea.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_LotArea.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_LowQualFinSF.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_LowQualFinSF.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_MiscVal.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_MiscVal.png
+INFO:root:Inintialized our class instances!
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Computing low variance feature selection
+INFO:root:Creting image path
+INFO:root:Saving the plot as DecomposedScatter.png
+INFO:root:Sucess! Saved the plot as DecomposedScatter.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as BaselineModelScatter.png
+INFO:root:Sucess! Saved the plot as BaselineModelScatter.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as learningCurve.png
+INFO:root:Sucess! Saved the plot as learningCurve.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as LinerModelScatter.png
+INFO:root:Sucess! Saved the plot as LinerModelScatter.png
+INFO:root:Creating Model path
+INFO:root:Saving the model as LinearRegressionModel.pkl
+INFO:root:Sucess! Saved the model as LinearRegressionModel.pkl
+INFO:root:Inintialized our class instances!
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Computing low variance feature selection
+INFO:root:Inintialized our class instances!
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Inintialized our class instances!
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Creting image path
+INFO:root:Saving the plot as top10_missing_values.png
+INFO:root:Sucess! Saved the plot as top10_missing_values.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as top10_missing_values_pct.png
+INFO:root:Sucess! Saved the plot as top10_missing_values_pct.png
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Creting image path
+INFO:root:Saving the plot as mulitcollinearity.png
+INFO:root:Sucess! Saved the plot as mulitcollinearity.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_LotArea.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_LotArea.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_LowQualFinSF.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_LowQualFinSF.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_MiscVal.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_MiscVal.png
+INFO:root:Inintialized our class instances!
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Creting image path
+INFO:root:Saving the plot as DecomposedScatter.png
+INFO:root:Sucess! Saved the plot as DecomposedScatter.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as BaselineModelScatter.png
+INFO:root:Sucess! Saved the plot as BaselineModelScatter.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as learningCurve.png
+INFO:root:Sucess! Saved the plot as learningCurve.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as LinerModelScatter.png
+INFO:root:Sucess! Saved the plot as LinerModelScatter.png
+INFO:root:Creating Model path
+INFO:root:Saving the model as LinearRegressionModel.pkl
+INFO:root:Sucess! Saved the model as LinearRegressionModel.pkl
+INFO:root:Inintialized our class instances!
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Creting image path
+INFO:root:Saving the plot as top10_missing_values.png
+INFO:root:Sucess! Saved the plot as top10_missing_values.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as top10_missing_values_pct.png
+INFO:root:Sucess! Saved the plot as top10_missing_values_pct.png
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Creting image path
+INFO:root:Saving the plot as mulitcollinearity.png
+INFO:root:Sucess! Saved the plot as mulitcollinearity.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_LotArea.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_LotArea.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_LowQualFinSF.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_LowQualFinSF.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_MiscVal.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_MiscVal.png
+INFO:root:Inintialized our class instances!
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Creting image path
+INFO:root:Saving the plot as DecomposedScatter.png
+INFO:root:Sucess! Saved the plot as DecomposedScatter.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as BaselineModelScatter.png
+INFO:root:Sucess! Saved the plot as BaselineModelScatter.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as learningCurve.png
+INFO:root:Sucess! Saved the plot as learningCurve.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as LinerModelScatter.png
+INFO:root:Sucess! Saved the plot as LinerModelScatter.png
+INFO:root:Creating Model path
+INFO:root:Saving the model as LinearRegressionModel.pkl
+INFO:root:Sucess! Saved the model as LinearRegressionModel.pkl
+INFO:root:Inintialized our class instances!
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Creting image path
+INFO:root:Saving the plot as top10_missing_values.png
+INFO:root:Sucess! Saved the plot as top10_missing_values.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as top10_missing_values_pct.png
+INFO:root:Sucess! Saved the plot as top10_missing_values_pct.png
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Creting image path
+INFO:root:Saving the plot as mulitcollinearity.png
+INFO:root:Sucess! Saved the plot as mulitcollinearity.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_LotArea.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_LotArea.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_LowQualFinSF.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_LowQualFinSF.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_MiscVal.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_MiscVal.png
+INFO:root:Inintialized our class instances!
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Creting image path
+INFO:root:Saving the plot as DecomposedScatter.png
+INFO:root:Sucess! Saved the plot as DecomposedScatter.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as BaselineModelScatter.png
+INFO:root:Sucess! Saved the plot as BaselineModelScatter.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as learningCurve.png
+INFO:root:Sucess! Saved the plot as learningCurve.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as LinerModelScatter.png
+INFO:root:Sucess! Saved the plot as LinerModelScatter.png
+INFO:root:Creating Model path
+INFO:root:Saving the model as LinearRegressionModel.pkl
+INFO:root:Sucess! Saved the model as LinearRegressionModel.pkl
+INFO:root:Inintialized our class instances!
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Inintialized our class instances!
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Creting image path
+INFO:root:Saving the plot as top10_missing_values.png
+INFO:root:Sucess! Saved the plot as top10_missing_values.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as top10_missing_values_pct.png
+INFO:root:Sucess! Saved the plot as top10_missing_values_pct.png
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Creting image path
+INFO:root:Saving the plot as mulitcollinearity.png
+INFO:root:Sucess! Saved the plot as mulitcollinearity.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_LotArea.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_LotArea.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_LowQualFinSF.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_LowQualFinSF.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_MiscVal.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_MiscVal.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as DecomposedScatter.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as DecomposedScatter.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as DecomposedScatter.png
+INFO:root:Sucess! Saved the plot as DecomposedScatter.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as BaselineModelScatter.png
+INFO:root:Sucess! Saved the plot as BaselineModelScatter.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as BaselineModelScatter.png
+INFO:root:Sucess! Saved the plot as BaselineModelScatter.png
+INFO:root:Inintialized our class instances!
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Creting image path
+INFO:root:Saving the plot as top10_missing_values.png
+INFO:root:Sucess! Saved the plot as top10_missing_values.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as top10_missing_values_pct.png
+INFO:root:Sucess! Saved the plot as top10_missing_values_pct.png
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Creting image path
+INFO:root:Saving the plot as mulitcollinearity.png
+INFO:root:Sucess! Saved the plot as mulitcollinearity.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_LotArea.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_LotArea.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_LowQualFinSF.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_LowQualFinSF.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_MiscVal.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_MiscVal.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as DecomposedScatter.png
+INFO:root:Sucess! Saved the plot as DecomposedScatter.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as BaselineModelScatter.png
+INFO:root:Sucess! Saved the plot as BaselineModelScatter.png
+INFO:root:Inintialized our class instances!
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Creting image path
+INFO:root:Saving the plot as top10_missing_values.png
+INFO:root:Sucess! Saved the plot as top10_missing_values.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as top10_missing_values_pct.png
+INFO:root:Sucess! Saved the plot as top10_missing_values_pct.png
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Creting image path
+INFO:root:Saving the plot as mulitcollinearity.png
+INFO:root:Sucess! Saved the plot as mulitcollinearity.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_LotArea.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_LotArea.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_LowQualFinSF.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_LowQualFinSF.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_MiscVal.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_MiscVal.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as DecomposedScatter.png
+INFO:root:Sucess! Saved the plot as DecomposedScatter.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as BaselineModelScatter.png
+INFO:root:Sucess! Saved the plot as BaselineModelScatter.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as LinerModelScatter.png
+INFO:root:Sucess! Saved the plot as LinerModelScatter.png
+INFO:root:Creating Model path
+INFO:root:Saving the model as LinearRegressionModel.pkl
+INFO:root:Sucess! Saved the model as LinearRegressionModel.pkl
+INFO:root:Inintialized our class instances!
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Inintialized our class instances!
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Creting image path
+INFO:root:Saving the plot as top10_missing_values.png
+INFO:root:Sucess! Saved the plot as top10_missing_values.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as top10_missing_values_pct.png
+INFO:root:Sucess! Saved the plot as top10_missing_values_pct.png
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Creting image path
+INFO:root:Saving the plot as mulitcollinearity.png
+INFO:root:Sucess! Saved the plot as mulitcollinearity.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_LotArea.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_LotArea.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_LowQualFinSF.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_LowQualFinSF.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_MiscVal.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_MiscVal.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as DecomposedScatter.png
+INFO:root:Sucess! Saved the plot as DecomposedScatter.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as BaselineModelScatter.png
+INFO:root:Sucess! Saved the plot as BaselineModelScatter.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as LinerModelScatter.png
+INFO:root:Sucess! Saved the plot as LinerModelScatter.png
+INFO:root:Creating Model path
+INFO:root:Saving the model as LinearRegressionModel.pkl
+INFO:root:Sucess! Saved the model as LinearRegressionModel.pkl
+INFO:root:Inintialized our class instances!
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Creting image path
+INFO:root:Saving the plot as decion_tree_model_learning_curve.png
+INFO:root:Sucess! Saved the plot as decion_tree_model_learning_curve.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as decion_tree_model_learning_curve.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as decion_tree_model_learning_curve.png
+INFO:root:Sucess! Saved the plot as decion_tree_model_learning_curve.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as decion_tree_model_learning_curve.png
+INFO:root:Sucess! Saved the plot as decion_tree_model_learning_curve.png
+INFO:root:Inintialized our class instances!
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Creting image path
+INFO:root:Saving the plot as top10_missing_values.png
+INFO:root:Sucess! Saved the plot as top10_missing_values.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as top10_missing_values_pct.png
+INFO:root:Sucess! Saved the plot as top10_missing_values_pct.png
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Creting image path
+INFO:root:Saving the plot as mulitcollinearity.png
+INFO:root:Sucess! Saved the plot as mulitcollinearity.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_LotArea.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_LotArea.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_LowQualFinSF.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_LowQualFinSF.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_MiscVal.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_MiscVal.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as DecomposedScatter.png
+INFO:root:Sucess! Saved the plot as DecomposedScatter.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as BaselineModelScatter.png
+INFO:root:Sucess! Saved the plot as BaselineModelScatter.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as LinerModelScatter.png
+INFO:root:Sucess! Saved the plot as LinerModelScatter.png
+INFO:root:Creating Model path
+INFO:root:Saving the model as LinearRegressionModel.pkl
+INFO:root:Sucess! Saved the model as LinearRegressionModel.pkl
+INFO:root:Inintialized our class instances!
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Creting image path
+INFO:root:Saving the plot as decion_tree_model_learning_curve.png
+INFO:root:Sucess! Saved the plot as decion_tree_model_learning_curve.png
+INFO:root:Creating Model path
+INFO:root:Saving the model as decision_tree_model.pkl
+INFO:root:Sucess! Saved the model as decision_tree_model.pkl
+INFO:root:Inintialized our class instances!
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Creting image path
+INFO:root:Saving the plot as top10_missing_values.png
+INFO:root:Sucess! Saved the plot as top10_missing_values.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as top10_missing_values_pct.png
+INFO:root:Sucess! Saved the plot as top10_missing_values_pct.png
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Creting image path
+INFO:root:Saving the plot as mulitcollinearity.png
+INFO:root:Sucess! Saved the plot as mulitcollinearity.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_LotArea.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_LotArea.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_LowQualFinSF.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_LowQualFinSF.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_MiscVal.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_MiscVal.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as DecomposedScatter.png
+INFO:root:Sucess! Saved the plot as DecomposedScatter.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as BaselineModelScatter.png
+INFO:root:Sucess! Saved the plot as BaselineModelScatter.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as LinerModelScatter.png
+INFO:root:Sucess! Saved the plot as LinerModelScatter.png
+INFO:root:Creating Model path
+INFO:root:Saving the model as LinearRegressionModel.pkl
+INFO:root:Sucess! Saved the model as LinearRegressionModel.pkl
+INFO:root:Inintialized our class instances!
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Creting image path
+INFO:root:Saving the plot as decion_tree_model_learning_curve.png
+INFO:root:Sucess! Saved the plot as decion_tree_model_learning_curve.png
+INFO:root:Creating Model path
+INFO:root:Saving the model as decision_tree_model.pkl
+INFO:root:Sucess! Saved the model as decision_tree_model.pkl
+INFO:root:Creting image path
+INFO:root:Saving the plot as LinerModelScatter.png
+INFO:root:Sucess! Saved the plot as LinerModelScatter.png
+INFO:root:Creating Model path
+INFO:root:Saving the model as RandomFores_model.pkl
+INFO:root:Sucess! Saved the model as RandomFores_model.pkl
+INFO:root:Inintialized our class instances!
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Creting image path
+INFO:root:Saving the plot as top10_missing_values.png
+INFO:root:Sucess! Saved the plot as top10_missing_values.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as top10_missing_values_pct.png
+INFO:root:Sucess! Saved the plot as top10_missing_values_pct.png
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Creting image path
+INFO:root:Saving the plot as mulitcollinearity.png
+INFO:root:Sucess! Saved the plot as mulitcollinearity.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_LotArea.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_LotArea.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_LowQualFinSF.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_LowQualFinSF.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_MiscVal.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_MiscVal.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as DecomposedScatter.png
+INFO:root:Sucess! Saved the plot as DecomposedScatter.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as BaselineModelScatter.png
+INFO:root:Sucess! Saved the plot as BaselineModelScatter.png
+INFO:root:Inintialized our class instances!
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Creting image path
+INFO:root:Saving the plot as top10_missing_values.png
+INFO:root:Sucess! Saved the plot as top10_missing_values.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as top10_missing_values_pct.png
+INFO:root:Sucess! Saved the plot as top10_missing_values_pct.png
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Creting image path
+INFO:root:Saving the plot as mulitcollinearity.png
+INFO:root:Sucess! Saved the plot as mulitcollinearity.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_LotArea.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_LotArea.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_LowQualFinSF.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_LowQualFinSF.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_MiscVal.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_MiscVal.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as DecomposedScatter.png
+INFO:root:Sucess! Saved the plot as DecomposedScatter.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as BaselineModelScatter.png
+INFO:root:Sucess! Saved the plot as BaselineModelScatter.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as LinerModelScatter.png
+INFO:root:Sucess! Saved the plot as LinerModelScatter.png
+INFO:root:Creating Model path
+INFO:root:Saving the model as LinearRegressionModel.pkl
+INFO:root:Sucess! Saved the model as LinearRegressionModel.pkl
+INFO:root:Inintialized our class instances!
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Creting image path
+INFO:root:Saving the plot as decion_tree_model_learning_curve.png
+INFO:root:Sucess! Saved the plot as decion_tree_model_learning_curve.png
+INFO:root:Creating Model path
+INFO:root:Saving the model as decision_tree_model.pkl
+INFO:root:Sucess! Saved the model as decision_tree_model.pkl
+INFO:root:Creting image path
+INFO:root:Saving the plot as LinerModelScatter.png
+INFO:root:Sucess! Saved the plot as LinerModelScatter.png
+INFO:root:Creating Model path
+INFO:root:Saving the model as RandomFores_model.pkl
+INFO:root:Sucess! Saved the model as RandomFores_model.pkl
+INFO:root:Creating Model path
+INFO:root:Saving the model as RandomFores_model.pkl
+INFO:root:Sucess! Saved the model as RandomFores_model.pkl
+INFO:root:Inintialized our class instances!
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Creting image path
+INFO:root:Saving the plot as top10_missing_values.png
+INFO:root:Sucess! Saved the plot as top10_missing_values.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as top10_missing_values_pct.png
+INFO:root:Sucess! Saved the plot as top10_missing_values_pct.png
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Creting image path
+INFO:root:Saving the plot as mulitcollinearity.png
+INFO:root:Sucess! Saved the plot as mulitcollinearity.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_LotArea.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_LotArea.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_LowQualFinSF.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_LowQualFinSF.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_MiscVal.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_MiscVal.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as DecomposedScatter.png
+INFO:root:Sucess! Saved the plot as DecomposedScatter.png
+INFO:root:Inintialized our class instances!
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Inintialized our class instances!
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Creting image path
+INFO:root:Saving the plot as top10_missing_values.png
+INFO:root:Sucess! Saved the plot as top10_missing_values.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as top10_missing_values_pct.png
+INFO:root:Sucess! Saved the plot as top10_missing_values_pct.png
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Creting image path
+INFO:root:Saving the plot as mulitcollinearity.png
+INFO:root:Sucess! Saved the plot as mulitcollinearity.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_LotArea.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_LotArea.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_LowQualFinSF.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_LowQualFinSF.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_MiscVal.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_MiscVal.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as DecomposedScatter.png
+INFO:root:Sucess! Saved the plot as DecomposedScatter.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as BaselineModelScatter.png
+INFO:root:Sucess! Saved the plot as BaselineModelScatter.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as LinerModelScatter.png
+INFO:root:Sucess! Saved the plot as LinerModelScatter.png
+INFO:root:Creating Model path
+INFO:root:Saving the model as LinearRegressionModel.pkl
+INFO:root:Sucess! Saved the model as LinearRegressionModel.pkl
+INFO:root:Inintialized our class instances!
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Creting image path
+INFO:root:Saving the plot as gradient_scatter_plot.png
+INFO:root:Sucess! Saved the plot as gradient_scatter_plot.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as gradient_scatter_plot.png
+INFO:root:Sucess! Saved the plot as gradient_scatter_plot.png
+INFO:root:Creating Model path
+INFO:root:Saving the model as gradient_boosting_model.pkl
+INFO:root:Sucess! Saved the model as gradient_boosting_model.pkl
+INFO:root:Inintialized our class instances!
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Creting image path
+INFO:root:Saving the plot as top10_missing_values.png
+INFO:root:Sucess! Saved the plot as top10_missing_values.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as top10_missing_values_pct.png
+INFO:root:Sucess! Saved the plot as top10_missing_values_pct.png
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Creting image path
+INFO:root:Saving the plot as mulitcollinearity.png
+INFO:root:Sucess! Saved the plot as mulitcollinearity.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_LotArea.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_LotArea.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_LowQualFinSF.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_LowQualFinSF.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_MiscVal.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_MiscVal.png
+INFO:root:Inintialized our class instances!
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Creting image path
+INFO:root:Saving the plot as top10_missing_values.png
+INFO:root:Sucess! Saved the plot as top10_missing_values.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as top10_missing_values_pct.png
+INFO:root:Sucess! Saved the plot as top10_missing_values_pct.png
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Creting image path
+INFO:root:Saving the plot as mulitcollinearity.png
+INFO:root:Sucess! Saved the plot as mulitcollinearity.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_LotArea.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_LotArea.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_LowQualFinSF.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_LowQualFinSF.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_MiscVal.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_MiscVal.png
+INFO:root:Inintialized our class instances!
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Creting image path
+INFO:root:Saving the plot as top10_missing_values.png
+INFO:root:Sucess! Saved the plot as top10_missing_values.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as top10_missing_values_pct.png
+INFO:root:Sucess! Saved the plot as top10_missing_values_pct.png
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Creting image path
+INFO:root:Saving the plot as mulitcollinearity.png
+INFO:root:Sucess! Saved the plot as mulitcollinearity.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_LotArea.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_LotArea.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_LowQualFinSF.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_LowQualFinSF.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_MiscVal.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_MiscVal.png
+INFO:root:Inintialized our class instances!
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Creting image path
+INFO:root:Saving the plot as top10_missing_values.png
+INFO:root:Sucess! Saved the plot as top10_missing_values.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as top10_missing_values_pct.png
+INFO:root:Sucess! Saved the plot as top10_missing_values_pct.png
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Creting image path
+INFO:root:Saving the plot as mulitcollinearity.png
+INFO:root:Sucess! Saved the plot as mulitcollinearity.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_LotArea.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_LotArea.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_LowQualFinSF.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_LowQualFinSF.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_MiscVal.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_MiscVal.png
+INFO:root:Inintialized our class instances!
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Creting image path
+INFO:root:Saving the plot as top10_missing_values.png
+INFO:root:Sucess! Saved the plot as top10_missing_values.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as top10_missing_values_pct.png
+INFO:root:Sucess! Saved the plot as top10_missing_values_pct.png
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Creting image path
+INFO:root:Saving the plot as mulitcollinearity.png
+INFO:root:Sucess! Saved the plot as mulitcollinearity.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_LotArea.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_LotArea.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_LowQualFinSF.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_LowQualFinSF.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_MiscVal.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_MiscVal.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as DecomposedScatter.png
+INFO:root:Sucess! Saved the plot as DecomposedScatter.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as BaselineModelScatter.png
+INFO:root:Sucess! Saved the plot as BaselineModelScatter.png
+INFO:root:Inintialized our class instances!
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Creting image path
+INFO:root:Saving the plot as top10_missing_values.png
+INFO:root:Sucess! Saved the plot as top10_missing_values.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as top10_missing_values_pct.png
+INFO:root:Sucess! Saved the plot as top10_missing_values_pct.png
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Creting image path
+INFO:root:Saving the plot as mulitcollinearity.png
+INFO:root:Sucess! Saved the plot as mulitcollinearity.png
+INFO:root:Inintialized our class instances!
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_LotArea.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_LotArea.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_LowQualFinSF.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_LowQualFinSF.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_MiscVal.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_MiscVal.png
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Creting image path
+INFO:root:Saving the plot as DecomposedScatter.png
+INFO:root:Sucess! Saved the plot as DecomposedScatter.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as BaselineModelScatter.png
+INFO:root:Sucess! Saved the plot as BaselineModelScatter.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as LinerModelScatter.png
+INFO:root:Sucess! Saved the plot as LinerModelScatter.png
+INFO:root:Creating Model path
+INFO:root:Saving the model as LinearRegressionModel.pkl
+INFO:root:Sucess! Saved the model as LinearRegressionModel.pkl
+INFO:root:Inintialized our class instances!
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['FireplaceQu', 'MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['FireplaceQu', 'MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Inintialized our class instances!
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['FireplaceQu', 'MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['FireplaceQu', 'MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['FireplaceQu', 'MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['FireplaceQu', 'MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['FireplaceQu', 'MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Inintialized our class instances!
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Creting image path
+INFO:root:Saving the plot as top10_missing_values.png
+INFO:root:Sucess! Saved the plot as top10_missing_values.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as top10_missing_values_pct.png
+INFO:root:Sucess! Saved the plot as top10_missing_values_pct.png
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Creting image path
+INFO:root:Saving the plot as mulitcollinearity.png
+INFO:root:Sucess! Saved the plot as mulitcollinearity.png
+INFO:root:Inintialized our class instances!
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_LotArea.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_LotArea.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_LowQualFinSF.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_LowQualFinSF.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_MiscVal.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_MiscVal.png
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Creting image path
+INFO:root:Saving the plot as DecomposedScatter.png
+INFO:root:Sucess! Saved the plot as DecomposedScatter.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as BaselineModelScatter.png
+INFO:root:Sucess! Saved the plot as BaselineModelScatter.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as LinerModelScatter.png
+INFO:root:Sucess! Saved the plot as LinerModelScatter.png
+INFO:root:Creating Model path
+INFO:root:Saving the model as LinearRegressionModel.pkl
+INFO:root:Inintialized our class instances!
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Creting image path
+INFO:root:Saving the plot as top10_missing_values.png
+INFO:root:Sucess! Saved the plot as top10_missing_values.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as top10_missing_values_pct.png
+INFO:root:Sucess! Saved the plot as top10_missing_values_pct.png
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Creting image path
+INFO:root:Saving the plot as mulitcollinearity.png
+INFO:root:Sucess! Saved the plot as mulitcollinearity.png
+INFO:root:Inintialized our class instances!
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_LotArea.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_LotArea.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_LowQualFinSF.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_LowQualFinSF.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_MiscVal.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_MiscVal.png
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Creting image path
+INFO:root:Saving the plot as DecomposedScatter.png
+INFO:root:Sucess! Saved the plot as DecomposedScatter.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as BaselineModelScatter.png
+INFO:root:Sucess! Saved the plot as BaselineModelScatter.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as LinerModelScatter.png
+INFO:root:Sucess! Saved the plot as LinerModelScatter.png
+INFO:root:Creating Model path
+INFO:root:Saving the model as LinearRegressionModel.pkl
+INFO:root:Sucess! Saved the model as LinearRegressionModel.pkl
+INFO:root:Inintialized our class instances!
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Creting image path
+INFO:root:Saving the plot as top10_missing_values.png
+INFO:root:Sucess! Saved the plot as top10_missing_values.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as top10_missing_values_pct.png
+INFO:root:Sucess! Saved the plot as top10_missing_values_pct.png
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Creting image path
+INFO:root:Saving the plot as mulitcollinearity.png
+INFO:root:Sucess! Saved the plot as mulitcollinearity.png
+INFO:root:Inintialized our class instances!
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_LotArea.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_LotArea.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_LowQualFinSF.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_LowQualFinSF.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_MiscVal.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_MiscVal.png
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Creting image path
+INFO:root:Saving the plot as DecomposedScatter.png
+INFO:root:Sucess! Saved the plot as DecomposedScatter.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as BaselineModelScatter.png
+INFO:root:Sucess! Saved the plot as BaselineModelScatter.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as LinerModelScatter.png
+INFO:root:Sucess! Saved the plot as LinerModelScatter.png
+INFO:root:Creating Model path
+INFO:root:Saving the model as LinearRegressionModel.pkl
+INFO:root:Sucess! Saved the model as LinearRegressionModel.pkl
+INFO:root:Inintialized our class instances!
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['FireplaceQu', 'MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Inintialized our class instances!
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Creting image path
+INFO:root:Saving the plot as top10_missing_values.png
+INFO:root:Sucess! Saved the plot as top10_missing_values.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as top10_missing_values_pct.png
+INFO:root:Sucess! Saved the plot as top10_missing_values_pct.png
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Creting image path
+INFO:root:Saving the plot as mulitcollinearity.png
+INFO:root:Sucess! Saved the plot as mulitcollinearity.png
+INFO:root:Inintialized our class instances!
+INFO:root:Inintialized our class instances!
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Creting image path
+INFO:root:Saving the plot as top10_missing_values.png
+INFO:root:Sucess! Saved the plot as top10_missing_values.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as top10_missing_values_pct.png
+INFO:root:Sucess! Saved the plot as top10_missing_values_pct.png
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Creting image path
+INFO:root:Saving the plot as mulitcollinearity.png
+INFO:root:Sucess! Saved the plot as mulitcollinearity.png
+INFO:root:Inintialized our class instances!
+INFO:root:Inintialized our class instances!
+INFO:root:Inintialized our class instances!
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Creting image path
+INFO:root:Saving the plot as top10_missing_values.png
+INFO:root:Sucess! Saved the plot as top10_missing_values.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as top10_missing_values_pct.png
+INFO:root:Sucess! Saved the plot as top10_missing_values_pct.png
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Creting image path
+INFO:root:Saving the plot as mulitcollinearity.png
+INFO:root:Sucess! Saved the plot as mulitcollinearity.png
+INFO:root:Inintialized our class instances!
+INFO:root:Inintialized our class instances!
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Creting image path
+INFO:root:Saving the plot as top10_missing_values.png
+INFO:root:Sucess! Saved the plot as top10_missing_values.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as top10_missing_values_pct.png
+INFO:root:Sucess! Saved the plot as top10_missing_values_pct.png
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Creting image path
+INFO:root:Saving the plot as mulitcollinearity.png
+INFO:root:Sucess! Saved the plot as mulitcollinearity.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_LotArea.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_LotArea.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_LowQualFinSF.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_LowQualFinSF.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_MiscVal.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_MiscVal.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as DecomposedScatter.png
+INFO:root:Sucess! Saved the plot as DecomposedScatter.png
+INFO:root:Inintialized our class instances!
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Creting image path
+INFO:root:Saving the plot as top10_missing_values.png
+INFO:root:Sucess! Saved the plot as top10_missing_values.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as top10_missing_values_pct.png
+INFO:root:Sucess! Saved the plot as top10_missing_values_pct.png
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Computing low variance feature selection
+INFO:root:Creting image path
+INFO:root:Saving the plot as mulitcollinearity.png
+INFO:root:Sucess! Saved the plot as mulitcollinearity.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_LotArea.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_LotArea.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_LowQualFinSF.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_LowQualFinSF.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_MiscVal.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_MiscVal.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as DecomposedScatter.png
+INFO:root:Sucess! Saved the plot as DecomposedScatter.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as BaselineModelScatter.png
+INFO:root:Sucess! Saved the plot as BaselineModelScatter.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as LinerModelScatter.png
+INFO:root:Sucess! Saved the plot as LinerModelScatter.png
+INFO:root:Creating Model path
+INFO:root:Saving the model as LinearRegressionModel.pkl
+INFO:root:Sucess! Saved the model as LinearRegressionModel.pkl
+INFO:root:Inintialized our class instances!
+INFO:root:Inintialized our class instances!
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Inintialized our class instances!
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Creting image path
+INFO:root:Saving the plot as top10_missing_values.png
+INFO:root:Sucess! Saved the plot as top10_missing_values.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as top10_missing_values_pct.png
+INFO:root:Sucess! Saved the plot as top10_missing_values_pct.png
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Creting image path
+INFO:root:Saving the plot as mulitcollinearity.png
+INFO:root:Sucess! Saved the plot as mulitcollinearity.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_LotArea.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_LotArea.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_LowQualFinSF.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_LowQualFinSF.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_MiscVal.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_MiscVal.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as DecomposedScatter.png
+INFO:root:Sucess! Saved the plot as DecomposedScatter.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as BaselineModelScatter.png
+INFO:root:Sucess! Saved the plot as BaselineModelScatter.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as LinerModelScatter.png
+INFO:root:Sucess! Saved the plot as LinerModelScatter.png
+INFO:root:Creating Model path
+INFO:root:Saving the model as LinearRegressionModel.pkl
+INFO:root:Sucess! Saved the model as LinearRegressionModel.pkl
+INFO:root:Inintialized our class instances!
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Inintialized our class instances!
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Creting image path
+INFO:root:Saving the plot as top10_missing_values.png
+INFO:root:Sucess! Saved the plot as top10_missing_values.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as top10_missing_values_pct.png
+INFO:root:Sucess! Saved the plot as top10_missing_values_pct.png
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Creting image path
+INFO:root:Saving the plot as mulitcollinearity.png
+INFO:root:Sucess! Saved the plot as mulitcollinearity.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_LotArea.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_LotArea.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_LowQualFinSF.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_LowQualFinSF.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_MiscVal.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_MiscVal.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as DecomposedScatter.png
+INFO:root:Sucess! Saved the plot as DecomposedScatter.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as BaselineModelScatter.png
+INFO:root:Sucess! Saved the plot as BaselineModelScatter.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as LinerModelScatter.png
+INFO:root:Sucess! Saved the plot as LinerModelScatter.png
+INFO:root:Creating Model path
+INFO:root:Saving the model as LinearRegressionModel.pkl
+INFO:root:Sucess! Saved the model as LinearRegressionModel.pkl
+INFO:root:Inintialized our class instances!
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Creting image path
+INFO:root:Saving the plot as decion_tree_model_learning_curve.png
+INFO:root:Sucess! Saved the plot as decion_tree_model_learning_curve.png
+INFO:root:Inintialized our class instances!
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Creting image path
+INFO:root:Saving the plot as top10_missing_values.png
+INFO:root:Sucess! Saved the plot as top10_missing_values.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as top10_missing_values_pct.png
+INFO:root:Sucess! Saved the plot as top10_missing_values_pct.png
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Dropped  high missing values features: 
+ ['MasVnrType', 'Fence', 'Alley', 'MiscFeature', 'PoolQC']
+INFO:root:Computing low variance feature selection
+INFO:root:Creting image path
+INFO:root:Saving the plot as mulitcollinearity.png
+INFO:root:Sucess! Saved the plot as mulitcollinearity.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_LotArea.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_LotArea.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_LowQualFinSF.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_LowQualFinSF.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as Distribution_outlier_MiscVal.png
+INFO:root:Sucess! Saved the plot as Distribution_outlier_MiscVal.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as DecomposedScatter.png
+INFO:root:Sucess! Saved the plot as DecomposedScatter.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as BaselineModelScatter.png
+INFO:root:Sucess! Saved the plot as BaselineModelScatter.png
+INFO:root:Creting image path
+INFO:root:Saving the plot as LinerModelScatter.png
+INFO:root:Sucess! Saved the plot as LinerModelScatter.png
+INFO:root:Creating Model path
+INFO:root:Saving the model as LinearRegressionModel.pkl
+INFO:root:Sucess! Saved the model as LinearRegressionModel.pkl
+INFO:root:Inintialized our class instances!
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Loading the csv file into a dataframe
+INFO:root:Creting image path
+INFO:root:Saving the plot as decion_tree_model_learning_curve.png
+INFO:root:Sucess! Saved the plot as decion_tree_model_learning_curve.png
+INFO:root:Creating Model path
+INFO:root:Saving the model as decision_tree_model.pkl
+INFO:root:Sucess! Saved the model as decision_tree_model.pkl
+INFO:root:Creting image path
+INFO:root:Saving the plot as LinerModelScatter.png
+INFO:root:Sucess! Saved the plot as LinerModelScatter.png
+INFO:root:Creating Model path
+INFO:root:Saving the model as RandomFores_model.pkl
+INFO:root:Sucess! Saved the model as RandomFores_model.pkl
+INFO:root:Creting image path
+INFO:root:Saving the plot as ForestModelScatter.png
+INFO:root:Sucess! Saved the plot as ForestModelScatter.png
+INFO:root:Creating Model path
+INFO:root:Saving the model as RandomFores_model.pkl
+INFO:root:Sucess! Saved the model as RandomFores_model.pkl
+INFO:root:Creting image path
+INFO:root:Saving the plot as gradient_scatter_plot.png
+INFO:root:Sucess! Saved the plot as gradient_scatter_plot.png
+INFO:root:Creating Model path
+INFO:root:Saving the model as gradient_boosting_model.pkl
+INFO:root:Sucess! Saved the model as gradient_boosting_model.pkl
