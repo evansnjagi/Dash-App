@@ -1,4 +1,5 @@
 # importing libraries
+import os
 import dash 
 from dash import dcc, html, Input, Output, State
 
@@ -7,6 +8,7 @@ from sklearn.metrics import mean_absolute_percentage_error, mean_absolute_error,
 
 # building the app
 app = dash.Dash(__name__)
+server = app.server
 
 app.layout = html.Div([
     # Sidebar
@@ -217,8 +219,10 @@ def idmapping_display(model_type, n_clicks):
     )
 
 # running the app
+
 if __name__ == "__main__":
-    app.run_server(debug=True)
+    app.run_server(debug=False, host="0.0.0.0", port=int(os.environ.get("PORT", 8050)))
+
 
 
 
